@@ -1,6 +1,6 @@
 # Pizza_Sales_Data_analysis
 
-## Project Title: Pizza Sales Data Analysis
+## Project Title: Pizza Sales Insights with SQL & Power BI
 
 ### Objective
 The objective of this project is to analyze pizza sales data to gain insights into sales performance, popular products, customer behavior, and overall business trends. The analysis aims to help the business make data-driven decisions to improve sales strategies, inventory management, and customer satisfaction.
